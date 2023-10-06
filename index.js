@@ -93,3 +93,9 @@ const PORT =5000;
 app.use("/friends", routes);
 
 app.listen(PORT,()=>console.log("Server is running"));
+
+const PORT =5000;
+
+app.use("/friends", routes);
+
+app.listen(PORT,()=>console.log("Server is running"));
